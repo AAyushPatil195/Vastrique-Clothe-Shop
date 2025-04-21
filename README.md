@@ -5,17 +5,20 @@ Vastrique is a modern e-commerce clothing website built with React. It features 
 ### Screenshots
 
 1. Home Page
-   ![80aefdf1-acc0-47a6-a26d-ee857a50cdf6](https://github.com/user-attachments/assets/1545168f-e075-434e-9976-b70bbde79aff)
-![3db5157d-6c41-44f5-b5d7-5c875620bbd7](https://github.com/user-attachments/assets/a5d790c7-7f2b-44a5-8386-08af08287956)
-![e757a34a-aa68-4561-a456-0ab341a85a5c](https://github.com/user-attachments/assets/913bd7a4-7eb3-4c5b-9b27-214d00cee4cc)
+   ![Screenshot (166)](https://github.com/user-attachments/assets/80af350f-9002-46ee-b74b-e4e872ebb93c)
+![Screenshot (167)](https://github.com/user-attachments/assets/0d06fc4b-b662-45e4-92f6-309fd2f66fec)
+![Screenshot (168)](https://github.com/user-attachments/assets/07d968d5-4326-48a6-b284-92e67f9c5068)
+
 
 2. Collection Page with filter and Sort Features
-   ![998b4762-5916-402d-8ad0-754b6d6a5e8e](https://github.com/user-attachments/assets/a9ba0ca7-4948-43b3-b939-e3c635c6c8ab)
-![ee14d24e-8582-4f11-8177-5563b920185f](https://github.com/user-attachments/assets/68b29425-05db-44e4-92af-625f3e0dfb06)
+   ![Screenshot (174)](https://github.com/user-attachments/assets/56204a05-9e09-436f-be6c-ec42346705c8)
+   ![Screenshot (172)](https://github.com/user-attachments/assets/a3c4c750-3149-40a8-bef6-d69bce77b5f6)
+
 
 3. Product Page
-   ![21b29483-f152-40bd-b9e7-7a403c040cfc](https://github.com/user-attachments/assets/17cccce5-a502-4ac5-bb93-739735cafa17)
-   ![1a03e2e2-f284-4fcc-84ed-2308cc8fdfdf](https://github.com/user-attachments/assets/099045dd-683a-4423-8274-7b4c7e9d276c)
+   ![Screenshot (170)](https://github.com/user-attachments/assets/c8aab2cc-bd6b-4197-88ae-a2795936d031)
+   ![Screenshot (171)](https://github.com/user-attachments/assets/305dbbd2-9624-46b8-84a6-2e5d5094d3ac)
+
 
 
 ### Features
